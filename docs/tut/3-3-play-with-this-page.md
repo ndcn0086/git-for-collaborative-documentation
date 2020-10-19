@@ -63,7 +63,7 @@ We, the undersigned, have submitted a pull request to this repository:
 19. Laurence Hunt - 19 October 2020 [@lhuntneuro](https://www.youtube.com/watch?v=oKNy-MWjkcU)
 20. Cam Hassall - he/him - 19 Oct 2020 [@chassall](https://github.com/chassall)
 21. Paula Kaanders - 19 Oct 2020 (https://github.com/p-kaanders)
-22. <br>
+22. Jon Campbell - 19 Oct 2020 (https://github.com/ndcn0086)
 23. Suyi Zhang - she/her - 19 Oct 2020 [@syzhang](https://github.com/syzhang) 
 24. <br>
 25. <br>
